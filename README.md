@@ -1,4 +1,4 @@
-# tech_verito_assignment
+# Shopping App 
 
 A new Flutter project.
 
