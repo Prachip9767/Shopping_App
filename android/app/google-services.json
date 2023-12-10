@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "41505777236",
+    "firebase_url": "https://shopping-app-37644-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopping-app-37644",
+    "storage_bucket": "shopping-app-37644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41505777236:android:1a0f2b61f7a23130e16fc1",
+        "android_client_info": {
+          "package_name": "com.example.tech_verito_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuv9DZkVkn6xdBCK9hila3cfFpT3ykU4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
