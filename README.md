@@ -10,6 +10,7 @@ On Shopping App you can Shop Online for Men & Women Clothing, Shoes, Kid's fashi
 * HTTP library
 * Navigation
 * Firebase
+* sqlflite
   
 # state management
 * Getx
@@ -51,12 +52,13 @@ Congratulations, you have created your first local clone from your remote Github
 
 App level dependencies
 
-* uses-material-design: true
 * assets/animation.json
-* cupertino_icons: 1.0.2
 * weather_icons: 3.0.0
-* provider: 6.0.0
+* get: 4.6.5
 * http: 0.13.3
-* intl: 0.17.0
+* firebase_auth: 4.15.0
+* firebase_core: 2.24.0
+* path_provider: 2.1.1
+* sqflite: 2.3.0
     
 # Thank You✨
