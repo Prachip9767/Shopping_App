@@ -40,7 +40,7 @@ On Shopping App you can Shop Online for Men & Women Clothing, Shoes, Kid's fashi
 
 * Click on “Clone or download” and copy the URL.
 
-* Use the git clone command along with the copied URL from earlier. $ git clone https://github.com/Prachip9767/weather_forcast_app.git
+* Use the git clone command along with the copied URL from earlier. $ git clone https://github.com/Prachip9767/Shopping_App.git
 
 * Press Enter. $ git clone https://github.com/Prachip9767/Shopping_App.git Cloning into Git … remote: Counting objects: 13, done. remote: Compressing objects: 100% (13/13), done. remove: Total 13 (delta 1), reused 0 (delta 1) Unpacking objects: 100% (13/13), done.
 
